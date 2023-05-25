@@ -1,0 +1,44 @@
+{
+  "turnos": [
+    {
+      "nombreCliente": "Juan",
+      "nombreMascota": "Tommy",
+      "tipoAnimal": "Canino",
+      "edad": 10,
+      "fechaHora": "2023-05-23 10:00",
+      "motivoConsulta": "Vacunas"
+    },
+    {
+      "nombreCliente": "Franco",
+      "nombreMascota": "Pantru",
+      "tipoAnimal": "Felino",
+      "edad": 5,
+      "fechaHora": "2023-05-24 15:30",
+      "motivoConsulta": "Revisión general"
+    },
+    {
+      "nombreCliente": "Pedro",
+      "nombreMascota": "Rocky",
+      "tipoAnimal": "Ave",
+      "edad": 7,
+      "fechaHora": "2023-05-25 11:15",
+      "motivoConsulta": "Corte de uñas"
+    },
+    {
+      "nombreCliente": "Gabriel",
+      "nombreMascota": "Kiwi",
+      "tipoAnimal": "Felino",
+      "edad": 7,
+      "fechaHora": "2023-05-26 09:30",
+      "motivoConsulta": "Desparasitar"
+    },
+    {
+      "nombreCliente": "Ana",
+      "nombreMascota": "Michi",
+      "tipoAnimal": "Felino",
+      "edad": 1,
+      "fechaHora": "2023-05-31 10:30",
+      "motivoConsulta": "Castración"
+    }
+  ]
+}
